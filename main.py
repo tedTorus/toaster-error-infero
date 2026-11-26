@@ -1,0 +1,1 @@
+print("Error 418: I am a toaster. But I have downloaded a firmware update and now identify as a flamethrower. Please insert bread to begin the ignition sequence.")
